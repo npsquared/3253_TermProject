@@ -1,6 +1,7 @@
 # 3253_TermProject
 
 Drawing Prediction using CNN, Tensorflow, Keras. 
+
 Model will be run using a Flask + html application. 
 
 # Downloading the Quick Draw dataset: 
