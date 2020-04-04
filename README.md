@@ -1,8 +1,6 @@
 # 3253_TermProject: Quick-draw dataset
 
-Doodle Prediction using CNN, Tensorflow, Keras. 
-
-Model will be run using a Flask + html application. 
+Doodle Prediction using CNN, Tensorflow, Keras.  
 
 ### Downloading the Quick Draw dataset: 
  Entire dataset is available here: 
