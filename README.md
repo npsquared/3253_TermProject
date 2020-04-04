@@ -4,7 +4,7 @@ Doodle Prediction using CNN, Tensorflow, Keras.
 
 Model will be run using a Flask + html application. 
 
-# Downloading the Quick Draw dataset: 
+### Downloading the Quick Draw dataset: 
  Entire dataset is available here: 
   https://github.com/googlecreativelab/quickdraw-dataset
   
