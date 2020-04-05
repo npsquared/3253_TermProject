@@ -77,3 +77,11 @@ We attempted to build a CNN model with 345 classes. Architecture of our CNN mode
 Model summary:
 ![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/model_summary.PNG)
 
+### Fitting the model
+
+Model was fit as follows:
+![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/model_fit.PNG)
+
+I did not have a GPU and as a result the model fitting took about 1 day and 50min to complete.
+![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/model_epoch.PNG)
+
