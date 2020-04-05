@@ -2,6 +2,13 @@
 
 Doodle Prediction using CNN, Tensorflow, Keras.
 
+### Notebooks
+preprocess.ipynb
+
+preprocess_analysis.ipynb
+
+data_model.ipynb
+
 ### Data
 Data used for this project is the crowdsourced Quick-Draw data set which Google amassed using their online game called Quick Draw. The data set contains over 50 million drawings or doodles submitted by users. The drawings are classified into 345 different classes that range from 'aircraft carrier' to 'zig-zag'. 
 
@@ -49,4 +56,24 @@ Following piece of code generates png image files from the .npy files and splits
 ![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/Code1.PNG)
 ![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/train_set.PNG)
 ![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/test_set.PNG)
+
+These images will be used to generate our CNN model to classify 345 images. 
+
+### Analysis
+
+Ammount of test data:
+![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/amt_test_data.PNG)
+
+Plotting an intensity histogram for some of the classes:
+
+![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/intensity_histogram.PNG)
+
+### Data modelling
+
+We attempted to build a CNN model with 345 classes. Architecture of our CNN model is below:
+
+![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/cnn_architecture.PNG)
+
+Model summary:
+![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/model_summary.PNG)
 
