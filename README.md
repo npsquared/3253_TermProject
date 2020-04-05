@@ -85,3 +85,7 @@ Model was fit as follows:
 I did not have a GPU and as a result the model fitting took about 1 day and 50min to complete.
 ![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/model_epoch.PNG)
 
+Performance:
+![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/model_plot.PNG)
+
+As we can see, the CNN model did not perform that great. We ended with a validation accuracy of ~70%. Which isn't that great. Looks like including all 345 classes might have been too ambitious for 10,000 sample images. 
