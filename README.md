@@ -42,10 +42,11 @@ I kept getting a 'Memory Error' trying to create a a dictionary object using the
 
 ![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/MemoryError.PNG)
 
-Running the code in colab crashed the application and produced a RAM error as well. We will have to take another approach to set up data for 345 samples to creata our CNN model. 
+Running the code in colab crashed the application and produced a RAM error as well. We will have to take another approach to set up data for 345 samples to create our CNN model. 
 
 Following piece of code generates png image files from the .npy files and splits the image files into train and test data:
 
 ![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/Code1.PNG)
-
+![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/train_set.PNG)
+![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/test_set.PNG)
 
