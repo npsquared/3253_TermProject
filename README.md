@@ -2,6 +2,9 @@
 
 Doodle Prediction using CNN, Tensorflow, Keras.
 
+### Video presentation
+https://www.youtube.com/watch?v=SHCC5mYxUUI&feature=youtu.be
+
 ### Notebooks
 preprocess.ipynb
 
