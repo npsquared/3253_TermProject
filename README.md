@@ -92,3 +92,11 @@ Performance:
 ![Image description](https://github.com/npsquared/3253_TermProject/blob/master/images/model_plot.PNG)
 
 As we can see, the CNN model did not perform that great. We ended with a validation accuracy of ~70%. Which isn't that great. Looks like including all 345 classes might have been too ambitious for 10,000 sample images. 
+
+### Future Consideration for model improvement
+
+One way to possibly improve the existing CNN model is by using Transfer Learning. More data can be fed to the existing CNN model to retrain it using saved weights. This will make training more efficient and produce better accuracy. 
+
+Another approach to making a better performing model is by using Recurrent Neural Networks to build the model instead of CNN.
+
+We now believe that it may have been a little over-ambitious trying to train a model to classify 345 images with only 10000 samples each and no GPU available to quickly train models. 
